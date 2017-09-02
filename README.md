@@ -1,6 +1,6 @@
-#Tabchi NMS
-install :
-git clone https://github.com/puryanms/tnms/ && cd tnms && chmod +x bot && ./bot install && ./bot create
+#Tabliqgar TMF
+نصب :
+git clone https://https://github.com/abedking/tmf/ && cd tnms && chmod +x bot && ./bot install && ./bot create
  
- run :
+ اجرا :
  ./bot 1
